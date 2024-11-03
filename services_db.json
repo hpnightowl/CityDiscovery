@@ -1,0 +1,13 @@
+{
+  "services": [
+    {
+      "name": "Zomato",
+      "category": "Food",
+      "description": "This is a food Service",
+      "website": "https://www.zomato.com/",
+      "cities": [
+        "Jabalpur"
+      ]
+    }
+  ]
+}
