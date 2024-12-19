@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "name": "Zomato",
+      "category": "Food",
+      "description": "This is Food Delivery Service",
+      "website": "https://zomato.in/",
+      "areas": [
+        {
+          "city": "Jabbalpur",
+          "localities": [],
+          "is_verified": false,
+          "verified_date": null,
+          "coverage_note": null
+        },
+        {
+          "city": "jabalpur",
+          "localities": [],
+          "is_verified": false,
+          "verified_date": null,
+          "coverage_note": null
+        }
+      ],
+      "operating_hours": null,
+      "pricing_tiers": [],
+      "features": [],
+      "is_verified": false,
+      "verified_date": null,
+      "rating": 0.0,
+      "total_ratings": 0,
+      "total_reviews": 0,
+      "created_at": "2024-12-20 02:01:35.241207",
+      "updated_at": "2024-12-20 02:04:43.106369"
+    }
+  ]
+}

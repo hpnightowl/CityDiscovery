@@ -8,6 +8,15 @@
       "cities": [
         "Jabalpur"
       ]
+    },
+    {
+      "name": "Swiggy",
+      "category": "",
+      "description": "This is a Food Service",
+      "website": "https://www.swiggy.com/",
+      "cities": [
+        ""
+      ]
     }
   ]
 }
